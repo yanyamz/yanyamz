@@ -4,7 +4,7 @@ const AboutMe = () => {
   		Tech_Stack: {
 			FrontendFrameworks: ['Vue.js', 'React.js'],
 			Backend: ['Node.js', 'Express', 'Firebase'],
-		}
+		},
 		Top_5_Anime: {
 			1: 'Clannad Afterstory',
 			2: 'Serial Experiments Lain',
