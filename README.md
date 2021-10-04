@@ -2,7 +2,7 @@
 const AboutMe = () => {
 	return {
   		Tech_Stack: {
-			FrontendFrameworks: ['Vue.js', 'React.js'],
+			Frontend: ['HTML', 'CSS', 'Javascript', 'Vue.js'],
 			Backend: ['Node.js', 'Express', 'Firebase'],
 		},
 		Top_5_Anime: {
